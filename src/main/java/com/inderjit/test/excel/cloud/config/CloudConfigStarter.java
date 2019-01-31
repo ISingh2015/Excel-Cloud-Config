@@ -10,6 +10,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 /**
  *
  * @author Inderjit Singh Sanhotra
+ * @version 1.0.0
  */
 @EnableAutoConfiguration
 @SpringBootApplication
